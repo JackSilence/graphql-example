@@ -1,0 +1,9 @@
+graphiql:
+    mapping: /graphiql
+    endpoint: /graphql
+    enabled: true
+spring:
+  h2:
+    console:
+      path: /h2-console
+      enabled: true
